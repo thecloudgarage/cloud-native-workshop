@@ -1,0 +1,11 @@
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/Item.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/Address.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/events/OrderKafkaListener.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/ShipmentLine.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/ShipmentService.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/Customer.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/ShipmentRepository.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/ShippingApp.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/web/ShippingController.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/events/ShipmentDeserializer.java
+/home/ubuntu/microservice-kafka/microservice-kafka/microservice-kafka-shipping/src/main/java/com/ewolff/microservice/shipping/Shipment.java

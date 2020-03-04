@@ -1,0 +1,17 @@
+com/ewolff/microservice/order/logic/OrderService.class
+com/ewolff/microservice/order/customer/Customer.class
+com/ewolff/microservice/order/logic/OrderLine.class
+com/ewolff/microservice/order/logic/Order.class
+com/ewolff/microservice/order/customer/CustomerFormatter.class
+com/ewolff/microservice/order/logic/SpringRestDataConfig.class
+com/ewolff/microservice/order/item/Item.class
+com/ewolff/microservice/order/logic/OrderController.class
+com/ewolff/microservice/order/logic/OrderRepository.class
+com/ewolff/microservice/order/OrderApp.class
+com/ewolff/microservice/order/logic/Address.class
+com/ewolff/microservice/order/customer/CustomerTestDataGenerator.class
+com/ewolff/microservice/order/item/ItemRepository.class
+com/ewolff/microservice/order/logic/SpringRestDataConfig$1.class
+com/ewolff/microservice/order/item/ItemFormatter.class
+com/ewolff/microservice/order/item/ItemTestDataGenerator.class
+com/ewolff/microservice/order/customer/CustomerRepository.class
